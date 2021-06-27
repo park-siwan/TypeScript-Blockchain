@@ -7,7 +7,10 @@
   "author": "siwan <pswan3168@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start":"node index.js",
-    "prestart":"tsc"
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.4.0"
   }
 }
