@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/park-siwan/TypeScript-Blockchain.git",
   "author": "siwan <pswan3168@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start":"node index.js",
+    "prestart":"tsc"
+  }
 }
