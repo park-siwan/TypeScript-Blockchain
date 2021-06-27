@@ -1,0 +1,9 @@
+{
+  "name": "TypeScript-Blockchain",
+  "version": "1.0.0",
+  "description": "Learning TypeScript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/park-siwan/TypeScript-Blockchain.git",
+  "author": "siwan <pswan3168@gmail.com>",
+  "license": "MIT"
+}
